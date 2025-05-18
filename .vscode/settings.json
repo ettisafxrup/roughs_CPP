@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "ostream": "cpp",
+    "typeinfo": "cpp",
+    "sstream": "cpp"
+  },
+  "editor.formatOnSave": true,
+  "workbench.settings.useSplitJSON": false,
+  "json.schemas": [],
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  }
+}
