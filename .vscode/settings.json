@@ -2,7 +2,9 @@
   "files.associations": {
     "ostream": "cpp",
     "typeinfo": "cpp",
-    "sstream": "cpp"
+    "sstream": "cpp",
+    "limits": "cpp",
+    "iostream": "cpp"
   },
   "editor.formatOnSave": true,
   "workbench.settings.useSplitJSON": false,
