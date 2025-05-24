@@ -4,7 +4,9 @@
     "typeinfo": "cpp",
     "sstream": "cpp",
     "limits": "cpp",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "vector": "cpp",
+    "string": "cpp"
   },
   "editor.formatOnSave": true,
   "workbench.settings.useSplitJSON": false,
